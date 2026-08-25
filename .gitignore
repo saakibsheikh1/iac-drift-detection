@@ -5,4 +5,5 @@
 *.tfvars.json
 crash.log
 github-trust-policy.json
+github-role-policy.json
 tfplan
